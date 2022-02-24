@@ -1,3 +1,10 @@
+# Remix + Tailwind + Headless UI
+
+Follow guidance from:
+- https://remix.run/docs/en/v1/tutorials/blog
+- https://headlessui.dev/react/transition#installation
+- https://tailwindcss.com/docs/guides/remix
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
